@@ -32,3 +32,4 @@ pyfakewebcam==0.1.0
 msgpack-numpy==0.4.5
 pyzmq==19.0.0
 #blosc==1.7.0
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
